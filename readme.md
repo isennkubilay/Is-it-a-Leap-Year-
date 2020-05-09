@@ -5,4 +5,4 @@ Write a program that reads a year from the user and displays a message indicatin
 
 👇👇👇🤙
 
-[![Run on Repl.it](https://repl.it/badge/github/isennkubilay/Is-it-a-Leap-Year)](https://repl.it/github/isennkubilay/Is-it-a-Leap-Year)
+[![Run on Repl.it](https://repl.it/badge/github/isennkubilay/Is-it-a-Leap-Year-)](https://repl.it/github/isennkubilay/Is-it-a-Leap-Year-)
